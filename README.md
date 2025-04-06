@@ -3,7 +3,8 @@
 Hi! I'm Wilbert Harianto, a student in the Framework-Based Software Design and Development course. 
 I [expect to learn a lot about modern software maintenance practices and how to work with legacy systems].
 
-![My Image](image.jpg)  <!-- Link to the uploaded image -->
+![Screenshot 2025-04-07 013448](https://github.com/user-attachments/assets/51a5be53-4e32-457c-988b-dd6a8c791cb8)
+
 
 ## GitHub Profile
 
